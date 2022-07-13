@@ -1,0 +1,29 @@
+.navbar {
+    display: flex;
+    background-color: #21222A;
+    height: 90px;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo {
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.logo--text{
+    color: #61DAFB;
+    font-weight: 600;
+    font-size: 22px;
+}
+
+.logo--image{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.title {
+    padding-right: 25px;
+    font-weight: 400;
+    color: #DEEBF8;
+}

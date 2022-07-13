@@ -1,0 +1,26 @@
+.mainPage {
+    padding-left: 20px;
+    padding-top: 30px;
+    background-image: url("../images/reactjs-icon2.png");
+    background-repeat: no-repeat;
+    background-position: right 0px top 70px;
+}
+
+.titleText {
+    color: #fff;
+}
+
+.list {
+    color: #fff;
+}
+
+li {
+    line-height: 19px;
+    padding-block: 10px;
+}
+
+li::marker {
+    color: #61DAFB;
+    font-size: 1.4rem;
+}
+
